@@ -1,0 +1,17 @@
+v1.0  Game Creation
+        Map rendering
+        Player movement
+        Damage calculation
+          Blood strip mechanism
+          Player damage
+          Magma damage
+          Score mechanism
+v1.1  Tactical Update
+      repel
+      Birth point setting
+      teleporting 
+v1.2  Operation Update
+      Code restructuring
+      Function button - Modify and Read Settings
+      Function button - Backup and Archive
+      Open game files
